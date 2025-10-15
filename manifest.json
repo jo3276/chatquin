@@ -1,0 +1,16 @@
+{
+  "short_name": "Chatbot Creator",
+  "name": "Contextual Chatbot Creator",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#1e293b",
+  "description": "Create and chat with custom AI assistants based on your own documents and data."
+}

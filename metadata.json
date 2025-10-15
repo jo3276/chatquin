@@ -1,0 +1,7 @@
+{
+  "name": "botmaker",
+  "description": "Create a personalized chatbot by providing information from images, text files, or pasted text. The chatbot will answer questions based solely on the context you provide, powered by the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
