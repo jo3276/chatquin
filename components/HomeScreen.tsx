@@ -94,7 +94,7 @@ const HomeScreen: React.FC<HomeScreenProps> = (props) => {
   const { chatbots, onNewChatbot, onSelectChatbot, onViewSource, onEditChatbot, onDeleteChatbot, onInstallApp, showInstallButton, onOpenThemeStudio } = props;
   
   return (
-    <div className="h-full flex flex-col pb-16">
+    <div className="h-full flex flex-col">
         <div className="p-4 md:px-6 md:pt-6 md:pb-4 flex-shrink-0 text-left border-b border-border-primary flex justify-between items-start">
             <div>
                 <h1 className="text-xl md:text-2xl font-bold text-text-primary">My Chatbots</h1>
